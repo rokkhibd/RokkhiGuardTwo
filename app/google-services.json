@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "736933090620",
+    "firebase_url": "https://rokkhiguard.firebaseio.com",
+    "project_id": "rokkhiguard",
+    "storage_bucket": "rokkhiguard.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:736933090620:android:b7d8cc1d54f077c3",
+        "android_client_info": {
+          "package_name": "com.example.rokkhiguard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "736933090620-jlqjvrq2ej478cq8t1mcabotc7dp1vv0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rokkhiguard",
+            "certificate_hash": "4106edaa89d6c9c33af285d458bb7a10fb290fa9"
+          }
+        },
+        {
+          "client_id": "736933090620-dhm5uvjc0v86vvmfkc4lcvljcn2eesbo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAO7NIn_DVPAWqXNh9Bq-YXkf6OB9Z9GgE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "736933090620-dhm5uvjc0v86vvmfkc4lcvljcn2eesbo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
