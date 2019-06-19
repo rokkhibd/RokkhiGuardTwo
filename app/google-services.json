@@ -15,6 +15,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "736933090620-d06au6jfld0qk9p7bi9e26m088dc3jot.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rokkhiguard",
+            "certificate_hash": "f1aabb6a92190f89abef8c6f204c85738ca58bd3"
+          }
+        },
+        {
           "client_id": "736933090620-jlqjvrq2ej478cq8t1mcabotc7dp1vv0.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
